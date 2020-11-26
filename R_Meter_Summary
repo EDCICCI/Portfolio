@@ -1,1 +1,1 @@
-select Reference from B_Meter
+select MeterID from B_Meter
